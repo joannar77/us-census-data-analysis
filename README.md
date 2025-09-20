@@ -1,4 +1,4 @@
-# Cleaning and Visualizing US Census Data with Pandas
+# Cleaning and Visualizing U.S. Census Data with Pandas
 
 ### Goals
 handle missing data, duplicates, format inconsistencies
